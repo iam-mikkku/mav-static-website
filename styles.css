@@ -1,0 +1,15 @@
+.logo{
+  transform: translateX(-50%);
+  left: 50%;
+  top: 1px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.nav-height{
+    height: 50px;
+}
+
+.card{
+    margin: 10px;
+}
